@@ -51,14 +51,13 @@
     "scaffold",
     "frontend"
   ],
-  "homepage": "https://git.congritta.com/talkings-frontend",
+  "homepage": "https://github.com/Makvkn/chatApp",
   "author": {
-    "name": "Alex Congritta",
-    "email": "congritta@gmail.com",
-    "url": "https://congritta.com"
+    "name": "Maksim Makovkin",
+    "email": "max.makovkin@yandex.ru"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/congritta/talkings-frontend.git"
+    "url": "https://github.com/Makvkn/chatApp"
   }
 }

@@ -14,14 +14,14 @@ export default function MePage() {
     <div className="MePage">
 
       <Avatar color={0} firstName="A" size={100} />
-      <div className="names">Alex Congritta</div>
+      <div className="names">Maks Makovkin</div>
 
       <form onSubmit={(e) => {e.preventDefault();}}>
         <div className="field-wrapper">
           <div className="label">Edit names</div>
           <div className="field-wrapper">
-            <input type="text" placeholder="John..." defaultValue="Alex" />
-            <input type="text" placeholder="Doe..." defaultValue="Congritta" />
+            <input type="text" placeholder="John..." defaultValue="Maks" />
+            <input type="text" placeholder="Doe..." defaultValue="Makovkin" />
           </div>
         </div>
 
@@ -30,7 +30,7 @@ export default function MePage() {
 
           <div className="field-wrapper _iconed-left">
             <Icon icon="mailat-1" />
-            <input type="text" placeholder="myUsername..." defaultValue="congritta" />
+            <input type="text" placeholder="myUsername..." defaultValue="Makvkn" />
           </div>
         </div>
       </form>
