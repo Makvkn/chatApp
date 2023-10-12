@@ -37,7 +37,7 @@ export default function SignInPage() {
 
       <div className="info">
         <p>
-          You can get authentication code directly from Alex Congritta who is main creator of Talkings Messenger.
+          You can get authentication code directly from Makvkn who is main creator of Talkings Messenger.
           There is no sign up methods because this is private messenger
         </p>
       </div>

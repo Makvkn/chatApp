@@ -18,7 +18,7 @@ export default function SignUpPage() {
 
       <div style={{textAlign: "center"}}>
         <p>
-          Welcome to <b>Talkings</b>!<br />This is private messenger made by Alex Congritta.
+          Welcome to <b>Talkings</b>!<br />This is private messenger made by Makvkn.
         </p>
 
         <p>

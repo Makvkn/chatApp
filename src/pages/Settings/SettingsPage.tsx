@@ -60,7 +60,7 @@ export default function SettingsPage() {
         </div>
       </div>
 
-      <div className="settings-group-label">Powered by Congritta</div>
+      <div className="settings-group-label">Powered by Makvkn</div>
       <div className="rows">
 
         <div className="row">
